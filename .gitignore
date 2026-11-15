@@ -1,0 +1,10 @@
+.venv/
+.venv-jenkins/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage*
+reports/
+htmlcov/
+.validation/
+.env
