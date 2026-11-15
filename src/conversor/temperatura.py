@@ -2,7 +2,7 @@
 
 
 def celsius_para_fahrenheit(celsius: float) -> float:
-    return celsius * 9 / 5 + 32
+    return celsius * 9 / 5 + 30
 
 
 def fahrenheit_para_celsius(fahrenheit: float) -> float:
